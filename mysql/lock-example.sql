@@ -1,3 +1,6 @@
+-- Lock test examples.
+-- Execute each on seperated connections.
+
 -- Get X lock
 BEGIN;
 
