@@ -1,2 +1,3 @@
 #!/bin/bash
-docker exec -it mysql mysql -pmysql
+docker exec -it mysql mysql -pmysql test
+
